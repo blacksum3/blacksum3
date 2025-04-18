@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=11106E&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+I%E2%80%99m+blacksum3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=11106E&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+I%E2%80%99m+blacksum3)](https://git.io/typing-svg)
 ## About Me
 I’m into large language models and software applications, hoping to connect and share ideas harmoniously in the community🤔. Additionally, I'm a anime addict. ✨
 
