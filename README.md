@@ -1,5 +1,6 @@
 ## About Me
-Hi I'm blacksum3┏(＾0＾)┛, a humble geeker passionate about learning. I’m into large language models and software applications, hoping to connect and share ideas harmoniously in the community. Additionally, I'm a anime addict. ✨
+[Hi I'm blacksum3┏(＾0＾)┛, a humble geeker passionate about learning.](https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=24&color=11106E&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&lines=Hi+I%E2%80%99m+blacksum3) 
+I’m into large language models and software applications, hoping to connect and share ideas harmoniously in the community. Additionally, I'm a anime addict. ✨
 If you have any issues about the code technology involved in my repositories, welcome contact me through email！
 Connect
 📧 Email: lengshan66@gmail.com
