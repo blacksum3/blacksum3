@@ -4,7 +4,7 @@ I’m into large language models and software applications, hoping to connect an
 
 If you have any issues about the code technology involved in my repositories, welcome contact me through email！😄
 Connect
-📧 Email: lengshan66@gmail.com
+📧 Email: lengsihan66@gmail.com
 <!--
 **blacksum3/blacksum3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
